@@ -1,0 +1,46 @@
+---
+title: "Report"
+output: html_document
+date: "2024-03-12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+***Part A*** <br />
+In Part A, I started off with creating Github and repository at the same time as README.md file. This process was not too complicated for me since a video was provided. I managed to figure it out quickly.
+
+***Part B*** <br />
+During Part B, I created a folder called stats 220 and created my first file "Project1" on R studio. I added all the images I used for my gif into this folder along with all the necessary files. I also used functions for my image and pipes which took me a bit of time to figure it out.
+
+***Part C*** <br />
+I knitted my project and created html. This process was the most difficult for me since I had to fix a lot of errors that kept interferring the project from producing the html output. I had to constantly go back to figure out why the code wasn't running and involved a lot of research to fix things out. 
+
+
+<br />
+
+**Learning Reflection**
+<br />
+One main key idea I have acquired through this first project is that the html document can be produced through the combination of markdown. My initial approach to coding was through JavaScript, and accessing this new programming language R was another awakening experience for me as R is coded with different syntaxes and various data types. The most challenging part of this process was understanding the difference between R script and an R markdown file, along with my struggles with fixing numerous errors that put me through a lot of stress. Overall, I have grasped the concept of R markdown and managed to create a meme and a gif of my choice.
+
+
+```{css}
+body {
+background-color: #FFC1CC
+}
+p {
+font-size: 20px;
+color: #E75480;
+text-align: left
+}
+h1{
+text-align: center;
+background-color:#E75480;
+color: #FFC1CC;
+padding: 20px;
+margin: 20px
+}
+h2 {color: #FFC1CC;
+text-align: center
+}
+```
